@@ -1,10 +1,10 @@
 {
-  "name": "stringencoding",
+  "name": "wo-stringencoding",
   "author": "Joshua Bell <inexorabletash@gmail.com>",
   "contributors": [
     "Rick Eyre <rick.eyre@outlook.com"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Polyfill for the Encoding Living Standard's API.",
   "main": "dist/stringencoding.js",
   "repository": {
